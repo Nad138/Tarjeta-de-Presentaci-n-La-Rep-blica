@@ -1,0 +1,26 @@
+header{
+  background-color: #e00109;
+  height: 70px;
+  color: white;
+  text-align: center;
+}
+.social{
+  width: 700px;
+  display: inline-block;
+  text-align: center;
+}
+.icon{
+  display: inline-block;
+  text-align: center;
+}
+.search-box{
+  position: absolute;
+  margin-right: 0;
+}
+.ul{
+  display: inline-block;
+}
+nav{
+  background-color: #4d4d59;
+  text-align: center;
+}
